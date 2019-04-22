@@ -1,4 +1,4 @@
-package txstate.edu.amb309.rentalcarapp;
+//package [your package name here];
 
 import android.app.Activity;
 import android.app.ListActivity;
