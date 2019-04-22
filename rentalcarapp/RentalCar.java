@@ -1,4 +1,4 @@
-package txstate.edu.amb309.rentalcarapp;
+//package [your package name here];
 
 public class RentalCar {
     private int id;
