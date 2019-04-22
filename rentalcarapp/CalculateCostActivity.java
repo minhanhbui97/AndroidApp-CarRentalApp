@@ -1,4 +1,4 @@
-package txstate.edu.amb309.rentalcarapp;
+//package [your package name here];
 
 import android.content.Intent;
 import android.content.SharedPreferences;
